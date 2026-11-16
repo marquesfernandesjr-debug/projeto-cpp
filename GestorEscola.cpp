@@ -31,7 +31,7 @@ void GestorEscola::adicionarAluno(int id, std::string nome) {
         return;
     }
     alunos.push_back(new Aluno(id, nome));
-    std::cout << "Aluno adicionado com sucesso.\n";
+    std::cout << "Aluno cadastrado com sucesso.\n";
 }
 
 void GestorEscola::listarAlunos() const {
