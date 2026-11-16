@@ -8,7 +8,7 @@ int main() {
     int opcao;
     do {
         std::cout << "\n========== MENU ==========\n";
-        std::cout << "1. Adicionar Aluno\n";
+        std::cout << "1.Cadastrar Aluno\n";
         std::cout << "2. Listar Todos os Alunos\n";
         std::cout << "3. Imprimir Aluno Especifico\n";
         std::cout << "4. Eliminar Aluno\n";
